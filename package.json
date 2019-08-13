@@ -1,7 +1,7 @@
 {
   "name": "ax-scroll",
-  "description": "A Vue.js project",
-  "version": "1.0.0",
+  "description": "A scroll components based on vue",
+  "version": "0.0.1",
   "author": "xiangyicong <xiangyicong@mafengwo.com>",
   "license": "MIT",
   "private": false,
